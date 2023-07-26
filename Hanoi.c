@@ -21,8 +21,9 @@ void Ch_1(void) {
 	int c;
 	c = Hanoi(3, 'A', 'B', 'C', 0);
 	printf("%d", c);
+	
 }
 
 void main(void){
-    Ch_1();
+	printf("hello world");
 }
